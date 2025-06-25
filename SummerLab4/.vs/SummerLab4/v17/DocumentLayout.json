@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\searchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:searchform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\deviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:deviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\deviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:deviceform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\deviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:deviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\summerlab4\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126A535A-83EE-46D7-A1D9-4A7F04977A56}|SummerLab4.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:23:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SearchForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.cs",
+              "RelativeToolTip": "SearchForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:23:28.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SearchForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.cs [Design]",
+              "RelativeToolTip": "SearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:23:25.418Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeviceForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.Designer.cs",
+              "RelativeDocumentMoniker": "DeviceForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.Designer.cs",
+              "RelativeToolTip": "DeviceForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwFwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:21:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceForm.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.cs",
+              "RelativeDocumentMoniker": "DeviceForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.cs",
+              "RelativeToolTip": "DeviceForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:21:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.cs",
+              "RelativeDocumentMoniker": "DeviceForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DeviceForm.cs [Design]",
+              "RelativeToolTip": "DeviceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:21:10.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwD8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:19:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DBConnect.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\DBConnect.cs",
+              "RelativeToolTip": "DBConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:15:10.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.Designer.cs",
+              "RelativeDocumentMoniker": "SearchForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\SearchForm.Designer.cs",
+              "RelativeToolTip": "SearchForm.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:23:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:19:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:19:27.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwGMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:18:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:17:40.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\SummerLab4\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:17:38.341Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
